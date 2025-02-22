@@ -22,4 +22,3 @@ This project uses Terraform to provision load-balanced EC2 instances and Ansible
    ```
 
 3. Use GitHub Actions to automate the deployment.
-# terraform-ansible-cloud-automation
